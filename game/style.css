@@ -1,0 +1,14 @@
+* { box-sizing: border-box; }
+body { 
+    margin: 0; 
+    padding: 0; 
+    width: 1000px;
+    /* border: 2px solid orange; */
+    margin: 0 auto;
+    text-align: center; /* center game canvas - behaves like text/img */
+}
+
+canvas {
+    margin-top: 5%;
+    /* border: 2px solid red; */
+}
